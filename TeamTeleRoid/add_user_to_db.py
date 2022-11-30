@@ -1,4 +1,4 @@
-# (c) @AM_ROBOTS
+# (c) @RoyalKrrishna
 
 from configs import Config
 from handlers.database import db

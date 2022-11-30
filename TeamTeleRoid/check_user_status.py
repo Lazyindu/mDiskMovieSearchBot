@@ -1,4 +1,4 @@
-# (c) @AM_ROBOTS
+# (c) @KGN_OFFICIAL
 
 import datetime
 from configs import Config
